@@ -5,7 +5,8 @@ int tongBT(int a, int b);
 int hieuBT(int a, int b);
 int tichBT(int a, int b);
 float thuongBT(int a, int b);
-
+int tinhChuViHinhVuong(int a);
+int tinhDienTichHinhVuong(int a);
 
 int main()
 {
